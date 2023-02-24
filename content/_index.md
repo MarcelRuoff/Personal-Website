@@ -16,17 +16,21 @@ sections:
     content:
       title: Skills
       items:
-        - name: C#
+        - name: Angular
           description: 90%
+          icon: angular
+          icon_pack: fas
+        - name: Python
+          description: 90%
+          icon: python
+          icon_pack: fas
+        - name: C#
+          description: 70%
           icon: code
           icon_pack: fas
         - name: Statistics
-          description: 100%
+          description: 65%
           icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
           icon_pack: fas
   - block: experience
     content:
