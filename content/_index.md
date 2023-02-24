@@ -19,7 +19,7 @@ sections:
         - name: Angular
           description: 90%
           icon: angular
-          icon_pack: fad
+          icon_pack: custom
         - name: Python
           description: 90%
           icon: python
