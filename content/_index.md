@@ -23,7 +23,7 @@ sections:
         - name: Python
           description: 90%
           icon: python
-          icon_pack: fad
+          icon_pack: custom
         - name: C#
           description: 70%
           icon: code
