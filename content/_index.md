@@ -16,10 +16,10 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: C#
           description: 90%
-          icon: r-project
-          icon_pack: fab
+          icon: binary
+          icon_pack: fa
         - name: Statistics
           description: 100%
           icon: chart-line
