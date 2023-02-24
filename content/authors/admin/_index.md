@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD of Information Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,22 +26,23 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human-Computer Interaction
+  - End User Developement
+  - Natural Language Processing
+  - Data Visualizations
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Information Systems
+      institution: Karlsruhe Institute of Technology
+      year: 2019
+    - course: MSc in Artificial Intelligence
+      institution: Karlsruhe Institute of Technology
+      year: 2019
+    - course: BSc in Industrial Engineering
+      institution: Karlsruhe Institute of Technology
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
