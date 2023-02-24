@@ -18,8 +18,8 @@ sections:
       items:
         - name: C#
           description: 90%
-          icon: binary
-          icon_pack: fa
+          icon: code
+          icon_pack: fas
         - name: Statistics
           description: 100%
           icon: chart-line
