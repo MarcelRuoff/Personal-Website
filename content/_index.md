@@ -19,11 +19,11 @@ sections:
         - name: Angular
           description: 90%
           icon: angular
-          icon_pack: fas
+          icon_pack: fad
         - name: Python
           description: 90%
           icon: python
-          icon_pack: fas
+          icon_pack: fad
         - name: C#
           description: 70%
           icon: code
