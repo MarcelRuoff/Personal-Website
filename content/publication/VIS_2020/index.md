@@ -26,7 +26,7 @@ publishDate: '2020-10-28T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *31st IEEE Conference on Information Visualization*
+publication: In *Posters at 31st IEEE Conference on Information Visualization*
 
 abstract: Multimodal interaction for visual data analysis and exploration provides new opportunities for empowering users to engage with data. However, it is not well understood which input modalities should be leveraged for certain information visualization (InfoVis) operations and how user would prefer to utilize them during data analysis and exploration. In order to close this research gap, we performed an user-elicitation study to examine how users utilize touch, speech, mid-air hand gestures and a combination of those for various InfoVis operations on large interactive displays. We believe this analysis will help us identify associated challenges and provide knowledge for the development of systems that provide multimodal interaction capabilities for visual data analysis and exploration.
 
@@ -51,7 +51,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'Towards_Understanding_Multimodal_Interaction_for_Visual_Data_Analysis.mp4'
+url_video: 'https://www.youtube.com/watch?v=ACSAqM1IX-s&list=PLjHCTOW5ojreEQ_3tMemcLnoR1_MxJIBl&index=15'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
