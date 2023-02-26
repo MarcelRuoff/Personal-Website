@@ -37,7 +37,7 @@ education:
     - course: PhD in Information Systems
       institution: Karlsruhe Institute of Technology
       year: 2019
-    - course: MSc in Artificial Intelligence
+    - course: MSc in Information Systems
       institution: Karlsruhe Institute of Technology
       year: 2019
     - course: BSc in Industrial Engineering
