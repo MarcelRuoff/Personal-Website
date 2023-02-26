@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'ECIS_Full.jpg'
 url_code: ''
 url_dataset: ''
 url_poster: ''
