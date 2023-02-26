@@ -74,3 +74,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+{{< video src="Towards_Understanding_Multimodal_Interaction_for_Visual_Data_Analysis.mp4" controls="yes" >}}
