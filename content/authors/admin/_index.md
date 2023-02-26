@@ -22,7 +22,7 @@ organizations:
     url: https://www.kit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include human-computer interaction, natural language interfaces, data visualizations, and end-user development.
 
 # Interests to show in About widget
 interests:
