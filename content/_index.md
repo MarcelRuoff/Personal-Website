@@ -71,6 +71,7 @@ sections:
         folders:
           - publication
         featured_only: false
+        exclude_future: false
     design:
       columns: '2'
       view: card
