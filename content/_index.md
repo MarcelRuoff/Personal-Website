@@ -70,7 +70,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: false
+        featured_only: true
         exclude_future: false
     design:
       columns: '2'
