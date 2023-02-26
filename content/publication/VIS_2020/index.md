@@ -37,14 +37,14 @@ abstract: Multimodal interaction for visual data analysis and exploration provid
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'VIS2020.pdf'
+url_pdf: 'https://marcelruoff.me/publication/vis_2020/VIS2020.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
