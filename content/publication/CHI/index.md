@@ -1,5 +1,5 @@
 ---
-title: 'Designing Multimodal BI&A Systems for Co-Located Team Interactions'
+title: 'ONYX : Assisting Users in Teaching Natural Language Interfaces Through Multi-Modal Interactive Task Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
