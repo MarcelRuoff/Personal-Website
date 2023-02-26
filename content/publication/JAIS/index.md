@@ -1,5 +1,5 @@
 ---
-title: 'Designing Multimodal BI&A Systems for Co-Located Team Interactions'
+title: 'Designing Conversational Dashboards for Effective Use in Crisis Response'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,17 +7,19 @@ title: 'Designing Multimodal BI&A Systems for Co-Located Team Interactions'
 authors:
   - admin
   - Ulrich Gnewuch
+  - Alexander Maedche
+  - Benjamin Scheibehenne
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2021-06-14T00:00:00Z'
+date: '2023-06-14T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-06-14T00:00:00Z'
+publishDate: '2023-06-14T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,9 +28,9 @@ publishDate: '2021-06-14T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *29th European Conference on Information Systems*
+publication: In *Journal of the Association for Information Systems*
 
-abstract: Teams are crucial for organizations in making data-driven decisions. However, current business intelligence & analytics (BI&A) systems are primarily designed to support individuals and, therefore, cannot be used effectively in co-located team interactions. To address this challenge, we conduct a design science research (DSR) project to design a multimodal BI&A system providing touch and speech interactions that can be used effectively by teams. Drawing on the theory of effective use and existing guidelines for multimodal user interfaces, we propose three design principles and instantiate them in a software artifact. The results of a focus group evaluation indicate that enhancing the BI&A system with multimodal capabilities increases transparent interaction and facilitates effective use of the system in co-located team interactions. Our DSR project contributes novel design knowledge for multimodal BI&A systems with touch and speech modalities that facilitate effective use in co-located team interactions.
+abstract: 'Governments and health organizations increasingly use dashboards to provide real-time information during natural disasters and pandemics. Although these dashboards aim to make crisis-related information accessible to the general public, the average user can have a hard time interacting with them and finding the information needed to make everyday decisions. To address this challenge, we draw on the theory of effective use to propose a theory-driven design for conversational dashboards in crisis response, which improves users’ transparent interaction and access to crisis-related information. We instantiate our proposed design in a conversational dashboard for the COVID-19 pandemic that enables natural language interaction in spoken or written form and helps users familiarize themselves with the use of natural language through conversational onboarding. The evaluation of our artifact shows that being able to use natural language improves users’ interaction with the dashboard and ultimately increases their efficiency and effectiveness in finding information. This positive effect is amplified when users complete the onboarding before interacting with the dashboard, particularly when they can use both natural language and mouse. Our findings contribute to research on dashboard design, both in general and in the specific context of crisis response, by providing prescriptive knowledge for extending crisis response dashboards with natural language interaction capabilities. In addition, our work contributes to the democratization of data science by proposing design guidelines for making information in crisis response dashboards more accessible to the general public.'
 
 
 # Summary. An optional shortened abstract.
@@ -44,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'ECIS_Full.pdf'
+url_pdf: 'JAIS.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
