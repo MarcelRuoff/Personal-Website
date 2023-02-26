@@ -82,3 +82,5 @@ highlight_name: true
 ---
 Marcel Ruoff is a PhD student at the Karlsruhe Institute of Technology (KIT) in Germany. His research focuses on designing and developing the next generation of user interfaces for end users with limited knowledge of the systems they use. In particular, he investigates how to utilize natural language to support end users in effectively using dashboards for their data exploration and analysis and how to enable these end users to effectively teach the conversational user interfaces how to perform new natural language inputs..
 {style="text-align: justify;"}
+
+{{< video src="Introduction.mp4" controls="yes" >}}
