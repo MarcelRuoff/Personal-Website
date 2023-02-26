@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'ECIS_Full.pdf'
+url_pdf: 'ONYX.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
