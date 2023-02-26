@@ -1,5 +1,5 @@
 ---
-title: 'Designing Multimodal BI&A Systems for Co-Located Team Interactions'
+title: 'Designing Conversational Dashboards for Effective Use in Crisis Response'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,7 +7,6 @@ title: 'Designing Multimodal BI&A Systems for Co-Located Team Interactions'
 authors:
   - admin
   - Ulrich Gnewuch
-  - Alexander Maedche
 
 # Author notes (optional)
 #author_notes:
@@ -45,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'ECIS_Full.pdf'
+url_pdf: 'ECIS_Rip.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
