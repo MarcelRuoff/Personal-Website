@@ -79,10 +79,7 @@ sections:
     content:
       title: Recent Publications
       count: 5
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      text: ''
       filters:
         folders:
           - publication
