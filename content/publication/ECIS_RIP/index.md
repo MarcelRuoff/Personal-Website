@@ -7,6 +7,7 @@ title: 'Designing Multimodal BI&A Systems for Co-Located Team Interactions'
 authors:
   - admin
   - Ulrich Gnewuch
+  - Alexander Maedche
 
 # Author notes (optional)
 #author_notes:
