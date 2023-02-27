@@ -98,6 +98,7 @@ sections:
       filters:
         folders:
           - event
+      sort_ascending: false
     design:
       columns: '2'
       view: compact
