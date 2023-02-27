@@ -31,6 +31,10 @@ sections:
          # description: 70%
           icon: code
           icon_pack: fas
+        - name: Natural Language Processing
+         # description: 65%
+          icon: nlp
+          icon_pack: custon
         - name: Data Science
          # description: 65%
           icon: chart-line
@@ -74,7 +78,7 @@ sections:
         exclude_future: false
     design:
       columns: '2'
-      view: compact # card
+      view: showcase  # compact
   - block: collection
     content:
       title: Recent Publications
