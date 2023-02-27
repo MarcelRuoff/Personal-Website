@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://marcelruoff.me/publication/chi_2023/ONYX.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
