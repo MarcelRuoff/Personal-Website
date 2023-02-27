@@ -34,7 +34,7 @@ sections:
         - name: Natural Language Processing
          # description: 65%
           icon: nlp
-          icon_pack: custon
+          icon_pack: custom
         - name: Data Science
          # description: 65%
           icon: chart-line
@@ -77,7 +77,7 @@ sections:
         featured_only: true
         exclude_future: false
     design:
-      columns: '2'
+      columns: '1'
       view: showcase  # compact
   - block: collection
     content:
