@@ -38,7 +38,7 @@ abstract: 'While natural language interfaces (NLIs) integrated in data visualiza
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
