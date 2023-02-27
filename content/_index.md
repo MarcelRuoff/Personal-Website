@@ -88,6 +88,8 @@ sections:
         folders:
           - publication
         exclude_featured: false
+        exclude_future: false
+
     design:
       columns: '2'
       view: citation
@@ -98,7 +100,7 @@ sections:
       filters:
         folders:
           - event
-      sort_ascending: false
+      sort_ascending: true
     design:
       columns: '2'
       view: compact
