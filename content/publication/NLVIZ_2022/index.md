@@ -1,13 +1,12 @@
 ---
-title: 'Multiexperience'
+title: 'ONYX : Assisting Users in Teaching Natural Language Interfaces Through Multi-Modal Interactive Task Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Ulrich Gnewuch
   - admin
-  - Christian Peukert
+  - Brad A Myers
   - Alexander Maedche
 
 # Author notes (optional)
@@ -15,11 +14,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-08-01T00:00:00Z'
-doi: '10.1007/s12599-022-00766-8'
+date: '2023-01-28T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-08-01T00:00:00Z'
+publishDate: '2023-01-28T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,9 +27,9 @@ publishDate: '2022-08-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Business & Information Systems Engineering*
+publication: In *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems*
 
-abstract: Multiexperience (MUX) is a term used to describe the trend of users interacting with multiple devices and modalities to complete tasks. This paper provides a conceptualization of MUX and a framework of three paths toward MUX. The benefits and challenges of each path are described, and future research opportunities are outlined.
+abstract: 'Users are increasingly empowered to personalize natural language interfaces (NLIs) by teaching how to handle new natural language (NL) inputs. However, our formative study found that when teach- ing new NL inputs, users require assistance in clarifying ambigui- ties that arise and want insight into which parts of the input the NLI understands. In this paper we introduce ONYX, an intelligent agent that interactively learns new NL inputs by combining NL programming and programming-by-demonstration, also known as multi-modal interactive task learning. To address the aforemen- tioned challenges, ONYX provides suggestions on how ONYX could handle new NL inputs based on previously learned concepts or user-defined procedures, and poses follow-up questions to clarify ambiguities in user demonstrations, using visual and textual aids to clarify the connections. Our evaluation shows that users provided with ONYX’s new features achieved significantly higher accuracy in teaching new NL inputs (median: 93.3%) in contrast to those without (median: 73.3%).'
 
 
 # Summary. An optional shortened abstract.
@@ -39,14 +38,14 @@ abstract: Multiexperience (MUX) is a term used to describe the trend of users in
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://marcelruoff.me/publication/bise/BISE.pdf'
+url_pdf: 'https://marcelruoff.me/publication/chi/ONYX.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -1,13 +1,12 @@
 ---
-title: 'Multiexperience'
+title: 'ONYX - User Interfaces for Assisting in Interactive Task Learning for Natural Language Interfaces of Data Visualization Tools'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Ulrich Gnewuch
   - admin
-  - Christian Peukert
+  - Brad A Myers
   - Alexander Maedche
 
 # Author notes (optional)
@@ -15,11 +14,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-08-01T00:00:00Z'
-doi: '10.1007/s12599-022-00766-8'
+date: '2022-04'
+doi: '10.1145/3491101.3519793'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-08-01T00:00:00Z'
+publishDate: '2022-04'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,9 +27,9 @@ publishDate: '2022-08-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Business & Information Systems Engineering*
+publication: In *Proceedings of the 2022 CHI Conference Extended Abstracts on Human Factors in Computing Systems*
 
-abstract: Multiexperience (MUX) is a term used to describe the trend of users interacting with multiple devices and modalities to complete tasks. This paper provides a conceptualization of MUX and a framework of three paths toward MUX. The benefits and challenges of each path are described, and future research opportunities are outlined.
+abstract: 'While natural language interfaces (NLIs) are increasingly utilized to simplify the interaction with data visualization tools, improving and adapting the NLIs to the individual needs of users still requires the support of developers. ONYX introduces an interactive task learning (ITL) based approach which enables NLIs to learn from users through natural interactions. Users can personalize the NLI with new commands using direct manipulation, known commands, or by combining both. To further support users during the training process, we derived two design goals for the user interface, namely providing suggestions based on sub-parts of the command and ad- dressing ambiguities through follow-up questions and instantiated them in ONYX. In order to trigger reflections and gain feedback on possible design trade-offs of ONYX and the instantiated design goals, we performed a formative user study to understand how to successfully integrate the suggestions and follow-up question into the interaction.'
 
 
 # Summary. An optional shortened abstract.
@@ -39,14 +38,14 @@ abstract: Multiexperience (MUX) is a term used to describe the trend of users in
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://marcelruoff.me/publication/bise/BISE.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
