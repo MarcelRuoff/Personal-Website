@@ -1,5 +1,5 @@
 ---
-title: 'ONYX : Assisting Users in Teaching Natural Language Interfaces Through Multi-Modal Interactive Task Learning'
+title: 'ONYX : Towards Extending Natural Language Interfaces for Data Visualization Tools through Interactive Task Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -14,11 +14,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2023-01-28T00:00:00Z'
+date: '2021-10-28T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-01-28T00:00:00Z'
+publishDate: '2021-10-28T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,9 +27,9 @@ publishDate: '2023-01-28T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems*
+publication: 'In *NLVIZ Workshop: Exploring Research Opportunities for Natural Language, Text, and Data Visualization*'
 
-abstract: 'Users are increasingly empowered to personalize natural language interfaces (NLIs) by teaching how to handle new natural language (NL) inputs. However, our formative study found that when teach- ing new NL inputs, users require assistance in clarifying ambigui- ties that arise and want insight into which parts of the input the NLI understands. In this paper we introduce ONYX, an intelligent agent that interactively learns new NL inputs by combining NL programming and programming-by-demonstration, also known as multi-modal interactive task learning. To address the aforemen- tioned challenges, ONYX provides suggestions on how ONYX could handle new NL inputs based on previously learned concepts or user-defined procedures, and poses follow-up questions to clarify ambiguities in user demonstrations, using visual and textual aids to clarify the connections. Our evaluation shows that users provided with ONYX’s new features achieved significantly higher accuracy in teaching new NL inputs (median: 93.3%) in contrast to those without (median: 73.3%).'
+abstract: 'While natural language interfaces (NLIs) are increasingly utilized to simplify the interaction with data visualization tools, adapting NLIs to the individual needs and requirements of end users still requires the support of developers. Our ONYX system introduces an interactive task learning (ITL)-based approach which enables NLIs to effectively learn from end users through natural interactions. End users can enhance the NLI with new commands or adapt existing commands using direct manipulation, natural language instructions, or a combination of both. ONYX guides end users through the demonstration process and provides them with recommendations for possible actions based on background knowledge of the system to enable an efficient interaction. In order to trigger reflections and gain feedback on the design of ONYX, we are currently preparing a formative study to understand how to best integrate guidance and recommendation capabilities provided by the ONYX system into the interaction.'
 
 
 # Summary. An optional shortened abstract.
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://marcelruoff.me/publication/chi/ONYX.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

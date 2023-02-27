@@ -1,5 +1,5 @@
 ---
-title: 'ONYX : Assisting Users in Teaching Natural Language Interfaces Through Multi-Modal Interactive Task Learning'
+title: 'Towards Interactively Contextualizing Natural Language Input in Data Visualization Tools'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -14,11 +14,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2023-01-28T00:00:00Z'
+date: '2022-10-28T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-01-28T00:00:00Z'
+publishDate: '2022-10-28T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,9 +27,9 @@ publishDate: '2023-01-28T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems*
+publication: 'In *NLVIZ Workshop: Exploring Research Opportunities for Natural Language, Text, and Data Visualization*'
 
-abstract: 'Users are increasingly empowered to personalize natural language interfaces (NLIs) by teaching how to handle new natural language (NL) inputs. However, our formative study found that when teach- ing new NL inputs, users require assistance in clarifying ambigui- ties that arise and want insight into which parts of the input the NLI understands. In this paper we introduce ONYX, an intelligent agent that interactively learns new NL inputs by combining NL programming and programming-by-demonstration, also known as multi-modal interactive task learning. To address the aforemen- tioned challenges, ONYX provides suggestions on how ONYX could handle new NL inputs based on previously learned concepts or user-defined procedures, and poses follow-up questions to clarify ambiguities in user demonstrations, using visual and textual aids to clarify the connections. Our evaluation shows that users provided with ONYX’s new features achieved significantly higher accuracy in teaching new NL inputs (median: 93.3%) in contrast to those without (median: 73.3%).'
+abstract: 'While natural language interfaces (NLIs) integrated in data visualiza- tion tools are an opportunity to facilitate an analytical flow through conversation, they still exhibit unexpected system behavior due to ambiguities in the conversation between users and the data visualiza- tion tool. In our initial natural language (NL) elicitation study, we found that for over 70% of NL inputs that exhibited ambiguities, the goal of users could be clarified through contextual conditions, such as the current data fields selected in the data visualization. However, there are numerous challenges in deriving these contextual condi- tions by developers upfront or automatically by the system during actual use. Instead, we propose ContexIT, a mixed-initiative system that is able to continuously learn the contextual conditions for NL inputs based on the visualization state and clarifications from the actual users.'
 
 
 # Summary. An optional shortened abstract.
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://marcelruoff.me/publication/chi/ONYX.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
