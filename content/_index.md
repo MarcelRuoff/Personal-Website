@@ -96,7 +96,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Upcoming Talks
+      title: Recent & Upcoming Talks
       filters:
         folders:
           - event
@@ -111,7 +111,7 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: marcel.ruoff[at]kit.edu
+      email: marcelruoff[at]gmx.de
       # Automatically link email and phone or display as text?
       autolink: false
       # Email form provider
